@@ -1,3 +1,5 @@
 I'm tired of running the same commands all the time. 
 
-My intention is to put the ruby, rvm, db and other instalations scripts here
+My intention is to put the ruby, rvm, db and other instalations scripts here.
+
+Will use Thor to achieve that, such a great ruby script tool! :)
